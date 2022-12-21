@@ -11,3 +11,13 @@ for (let un = 0; un < 20; un++) {
     
     
 }
+
+
+
+// let deux 
+
+// do {  
+
+//     deux = +prompt('entre nb paire')
+    
+// } while (deux % 2 != 0); 
