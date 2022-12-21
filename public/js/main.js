@@ -4,7 +4,9 @@ for (let un = 0; un < 20; un++) {
         console.log(un);
     }
 
-  
+    else{
+        console.log("L'iteration a été sauter");
+    }
     
     
 }
@@ -95,6 +97,7 @@ for (let un = 0; un < 20; un++) {
     
 }
 console.log(' ');
+
 // Écrivez un programme qui utilise une boucle for pour afficher les nombres de 1 à 10 en utilisant une condition d'arrêt pour sortir de la boucle lorsque le nombre atteint 5, puis affiche un message indiquant que la boucle a été interrompue.
 
 // sept
@@ -110,3 +113,9 @@ for (let sept = 0; sept < 10; sept++) {
     }
     
 }
+
+
+
+console.log((' '));
+// Écrivez un programme qui utilise une boucle for pour afficher les nombres de 1 à 10 en utilisant une condition d'arrêt pour passer à l'itération suivante lorsque le nombre est divisible par 3, puis affiche un message indiquant que l'itération a été sautée.
+
