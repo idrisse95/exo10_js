@@ -12,7 +12,7 @@ for (let un = 0; un < 20; un++) {
     
 }
 
-
+// deux
 
 // let deux 
 
@@ -21,3 +21,22 @@ for (let un = 0; un < 20; un++) {
 //     deux = +prompt('entre nb paire')
     
 // } while (deux % 2 != 0); 
+
+
+
+// trois
+
+
+for (let trois = 0; trois < 10;trois++) {
+ 
+    console.log(trois);
+
+switch (true) {
+    case trois==7:
+        alert('stop')
+        break;
+
+    default:
+        break;
+}}
+
